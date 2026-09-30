@@ -33,53 +33,34 @@ This project implements an **8-to-1 Multiplexer (MUX)** using Verilog HDL. The d
 
 ## 🔲 Block Diagram
 
-<!-- Add your block diagram here -->
-
-![8-to-1 MUX Block Diagram](images/block_diagram.png)
-
-## 📐 Circuit Diagram
-
-<!-- Add your circuit diagram here -->
-
-![8-to-1 MUX Circuit Diagram](images/circuit_diagram.png)
+<img width="1774" height="887" alt="ChatGPT Image Sep 30, 2026, 03_49_42 PM" src="https://github.com/user-attachments/assets/22958ffa-683e-4599-a807-24f4b3d0ccce" />
 
 ## 💻 Verilog Code
 
 ### Behavioral Modeling
 
-<!-- Add Behavioral Modeling screenshot here -->
-
-![Behavioral Modeling](images/behavioral.png)
+<img width="1215" height="679" alt="WhatsApp Image 2026-06-09 at 11 46 10 AM (4)" src="https://github.com/user-attachments/assets/92e3f4cc-f32d-488e-b5ae-80be791742bf" />
 
 ### Data Flow Modeling
 
-<!-- Add Data Flow Modeling screenshot here -->
+<img width="1217" height="685" alt="WhatsApp Image 2026-06-09 at 11 46 10 AM (1)" src="https://github.com/user-attachments/assets/413440c3-314c-44b3-9c5d-44ee4286840d" />
 
-![Data Flow Modeling](images/dataflow.png)
 
 ### Gate-Level Modeling
 
-<!-- Add Gate-Level Modeling screenshot here -->
+<img width="1215" height="692" alt="WhatsApp Image 2026-06-09 at 11 46 10 AM (3)" src="https://github.com/user-attachments/assets/8735ddd9-bc4b-4180-a17c-3659219a7ea7" />
 
-![Gate-Level Modeling](images/gatelevel.png)
 
 ## 📈 Simulation / Waveform
 
-<!-- Add simulation waveform here -->
+<img width="1214" height="701" alt="WhatsApp Image 2026-06-09 at 11 46 10 AM" src="https://github.com/user-attachments/assets/8f90386c-e91c-4fd3-bfeb-a190d7561880" />
 
-![Simulation Waveform](images/waveform.png)
 
 ## 🛠️ Tools Used
 
 * Verilog HDL
-* Vivado / ModelSim / EDA Playground
-* Digital Logic Design
-
+* Vivado
+ 
 ## 🎯 Learning Outcome
 
 This project demonstrates the implementation of an **8-to-1 Multiplexer** using different Verilog HDL modeling techniques and provides practical understanding of **combinational logic, multiplexing, and RTL design**.
-
-## 👨‍💻 Author
-
-**Naveen Kumar Gude**
-
